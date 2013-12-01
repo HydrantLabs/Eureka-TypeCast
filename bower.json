@@ -1,0 +1,23 @@
+{
+  "name": "eureka-typecast",
+  "version": "0.0.0",
+  "authors": [
+    "Luke Young <luke@hydrantlabs.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.2",
+    "requirejs": "~2.1.9",
+    "requirejs-text": "~2.0.10",
+    "handlebars": "~1.1.2",
+    "ember": "~1.2.0"
+  }
+}
